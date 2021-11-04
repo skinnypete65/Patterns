@@ -18,6 +18,8 @@ public class Main {
 
         configure(name);
         runBusinessLogic();
+
+        System.out.println("Test");
     }
 
     static void configure(String name) {
